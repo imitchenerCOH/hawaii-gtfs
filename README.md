@@ -6,7 +6,7 @@ The General Transit Feed Specification (GTFS) defines a common format for public
 
 This feed was created by [Tiger Oakes](http://tigeroakes.com) with permission from the County of Hawaii. It is used in [Big Island Buses](https://goride.io), an application for viewing bus routes and stops for Hele-On. The feed will soon be published on Google Maps, pending the addition of shape data.
 
-The feed can be downloaded from GitHub as a ZIP file for use in your own software. You can also contribute to the project by submitting a pull request. The feed is officially sanctioned by the County of Hawaii, but they currently do not update this data themselves. Help keep the island's online data current by editing the feed to reflect changes in the schedule by Hele-On!
+The feed can be downloaded from GitHub as a ZIP file for use in your own software. You can also contribute to the project by submitting a pull request. The feed is officially sanctioned by the County of Hawaii, but they currently do not update this data themselves. Help keep the island's online data current by editing the feed to reflect changes in the [schedule](http://www.heleonbus.org/schedules-and-maps) by Hele-On!
 
 ### Resources ###
 * [GTFS Reference](https://developers.google.com/transit/gtfs/reference)
