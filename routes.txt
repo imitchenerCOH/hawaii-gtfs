@@ -1,0 +1,19 @@
+route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,agency_id,route_url
+hilo-kaumana,,Intra Hilo - Kaumana,3,bee8ff,000000,HOB,http://www.heleonbus.org/schedules-and-maps/hilo-downtown-ainako-kaumana
+hilo-downtown,,Downtown Hilo-Aupuni Center-Prince Kuhio Combined Schedule,3,004da8,ffffff,HOB,http://www.heleonbus.org/schedules-and-maps/hilo-downtown-aupuni-prince-kuhio
+hilo-keaukaha,,Intra Hilo - Keaukaha,3,e60000,ffffff,HOB,http://www.heleonbus.org/schedules-and-maps/hilo-downtown-keaukaha
+hilo-waikea,,Intra Hilo - Waikea Uka,3,734c00,ffffff,HOB,http://www.heleonbus.org/schedules-and-maps/hilo-downtown-waiakea-uka
+hilo-resort,,Hilo - Waikoloa Resorts,3,00ffc5,000000,HOB,http://www.heleonbus.org/schedules-and-maps/hilo-waikoloa-resorts
+hilo-honokaa,,Honoka'a - Hilo,3,df73ff,000000,HOB,http://www.heleonbus.org/schedules-and-maps/honokaa-hilo
+hilo-volcano,,Ka'u - Volcano - Hilo,3,e600a9,000000,HOB,http://www.heleonbus.org/schedules-and-maps/kau-volcano-hilo
+hilo-kona,,Kona/Hilo,3,ff6a14,000000,HOB,http://www.heleonbus.org/schedules-and-maps/kona-hilo-bus-schedule
+kona,,Intra Kona,3,8400a8,ffffff,HOB,http://www.heleonbus.org/schedules-and-maps/intra-kona-7-1-2014
+kohala-resort,,North Kohala to South Kohala Resorts,3,ffff00,000000,HOB,http://www.heleonbus.org/schedules-and-maps/north-kohala-to-south-kohala-resorts
+kohala-kona,,North Kohala to Waimea and Kailua-Kona,3,d79e9e,000000,HOB,http://www.heleonbus.org/schedules-and-maps/north-kohala-to-waimea-and-kailua-kona
+pahala-kona,,Pahala/Ocean View - West Hawaii,3,ffaa00,000000,HOB,http://www.heleonbus.org/schedules-and-maps/pahala-south-kohala-resorts
+hilo-pahala,,Pahoa/Pohoiki/Hilo,3,d1ff73,000000,HOB,http://www.heleonbus.org/schedules-and-maps/pahoa-pohoiki-hilo-bus-schedule-monday-saturday
+waimea,,Waimea Shuttle,3,ff73df,000000,HOB,http://www.heleonbus.org/schedules-and-maps/waimea-shuttle
+hilo-waimea,,Waimea - Hilo,3,343434,ffffff,HOB,http://www.heleonbus.org/schedules-and-maps/waimea-hilo
+waikoloa,,Waikoloa Village Shuttle,3,894465,ffffff,RBH,http://www.heleonbus.org/schedules-and-maps/waikoloavillage-shuttle
+uh-hilo,,University of Hawaii to Downtown Hilo and Prince Kuhio Plaza,3,267300,ffffff,HOB,http://www.heleonbus.org/schedules-and-maps/university-of-hawaii-to-downtown-hilo-and-prince-kuhio-plaza
+waikoloa-waimea,,Waikoloa - Waimea,3,da6548,000000,HOB,http://www.heleonbus.org/schedules-and-maps/waikoloa-waimea-monday-friday-school-days
