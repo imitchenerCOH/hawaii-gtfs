@@ -31,7 +31,6 @@ hm,Hilo Medical Center,19.717609,-155.112447
 hx,Honomu,19.874991,-155.111058
 ho,Honaunau,19.417259,-155.880501
 hp,HPA Lower Campus,20.022246,-155.673909
-hq,HPA Upper Campus,20.029683,-155.698648
 hr,Hilo Library,19.724246,-155.090700
 hs,Hilo Shopping Center,19.710273,-155.076427
 hu,Hulu St.,19.940870,-155.795693
