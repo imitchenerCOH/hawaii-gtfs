@@ -95,7 +95,7 @@ ov,Ocean View Park and Ride Lot,19.083647,-155.776251
 se,Seaside Restaurant,19.733064,-155.028432
 sh,Four Seasons @ Hualalai,19.826818,-155.991423
 sk,Sheraton Keauhou Resort,19.559509,-155.964103
-st,St. Joseph,19.729539,-155.089983
+st,St. Joseph,19.722751, -155.090257
 sv,Seaview Estates,19.362664,-154.966686
 uh,University of Hawaii Hilo,19.699147,-155.080462
 vp,Volcano National Park Visitor's Center,19.429420,-155.257232
