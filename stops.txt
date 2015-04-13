@@ -40,7 +40,7 @@ ka,Kainaliu Honalo,19.5349997,-155.9288889
 kb,Kilauea/Haihai,19.674663,-155.066699
 kc,West Hawaii Civic Center,19.673514,-156.003909
 kd,Kapaau Dispensary,20.230692,-155.798939
-ke,Kealakehe,19.673018,-156.002766
+ke,Kealakehe,19.6730786,-155.9842909
 kh,Kona Hospital,19.5199528,-155.9167165
 ki,Kalanianaole (Richardson),19.734791,-155.012895
 kk,Kealakekua,19.5092435,-155.9156566
