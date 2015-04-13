@@ -1,7 +1,7 @@
 stop_id,stop_name,stop_lat,stop_lon
 ac,Aupuni Center,19.718956,-155.078531
 ai,Ainaloa Dr & Haihai St,19.672812,-155.092533
-ao,Ainaloa,19.527616,-154.993385
+ao,Ainaloa,19.5336357,-154.9854628
 al,Ali'i Drive,19.637881,-155.993039
 an,Ainako/Kaumana,19.708934,-155.109828
 ap,Kona Airport,19.737571,-156.040336
@@ -20,14 +20,14 @@ fs,Fujihara Store,19.396837,-155.879543
 gs,Gentry Subdivision,19.676564,-155.141902
 gy,Gym Complex,20.077132,-155.467592
 ha,Hapuna Prince,19.995666,-155.822728
-hb,Hawaiian Beaches,19.529090,-154.920036
-hf,Hawaiian Paradise Park,19.546767,-154.978384
+hb,Hawaiian Beaches,19.5594496,-154.8895631
+hf,Hawaiian Paradise Park,19.5718647,-154.9555322
 hg,Honokaa 76 Gas Station,20.078622,-155.466758
 hh,Hakalau,19.898577,-155.129412
-hi,Hawi Intersection,20.238016,-155.830493
+hi,Hawi Intersection,20.2381368,-155.8299056
 hk,Hooko Street,19.943885,-155.784451
 hl,Hilton Waikoloa,19.924451,-155.887667
-hm,Hilo Medical Center,19.717609,-155.112447
+hm,Hilo Medical Center,19.7177832,-155.111692
 hx,Honomu,19.874991,-155.111058
 ho,Honaunau,19.417259,-155.880501
 hp,HPA Lower Campus,20.022246,-155.673909
@@ -41,14 +41,14 @@ kb,Kilauea/Haihai,19.674663,-155.066699
 kc,West Hawaii Civic Center,19.673514,-156.003909
 kd,Kapaau Dispensary,20.230692,-155.798939
 ke,Kealakehe,19.673018,-156.002766
-kh,Kona Hospital,19.519973,-155.918234
+kh,Kona Hospital,19.5199528,-155.9167165
 ki,Kalanianaole (Richardson),19.734791,-155.012895
-kk,Kealakekua,19.509107,-155.916649
+kk,Kealakekua,19.5092435,-155.9156566
 kl,King's Landing,19.735926,-155.011877
 km,Kmart/Macy's,19.653298,-156.000253
 kn,Kaumana City,19.685470,-155.141376
 ko,Kalanianaole (Onekahakaha),19.734953,-155.038980
-kp,Kona Palisades @ Queen K Hwy,19.725414,-156.031620
+kp,Kona Palisades @ Queen K Hwy,19.7205461,-156.0306276
 kq,Kaiser Permanente,19.674409,-156.014672
 kr,Kawaihae Road,20.039032,-155.829587
 ks,Keauhou Shopping Center,19.572346,-155.961807
@@ -99,7 +99,7 @@ st,St. Joseph,19.722751, -155.090257
 sv,Seaview Estates,19.362664,-154.966686
 uh,University of Hawaii Hilo,19.699147,-155.080462
 vp,Volcano National Park Visitor's Center,19.429420,-155.257232
-vv,Volcano Village,19.435574,-155.223068
+vv,Volcano Village,19.4279629,-155.2358165
 wc,Waimea Civic Center,20.024532,-155.661629
 we,Waikoloa Elementary,19.946168,-155.789198
 wf,Waikoloa Village Market,19.927834,-155.786533
