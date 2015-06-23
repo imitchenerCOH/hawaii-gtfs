@@ -1,4 +1,3 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
 HOB,Hele-On Bus,http://heleonbus.org,Pacific/Honolulu,808-961-8744,en
 RBH,Robert's Hawaii,http://robertshawaii.com,Pacific/Honolulu,800-831-5541,en
-TIG,Tiger Oakes,http://tigeroakes.com,Pacific/Honolulu,253-778-6251,en
