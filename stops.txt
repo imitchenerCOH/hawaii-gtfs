@@ -9,6 +9,7 @@ bc,Waikoloa Baptist Church,19.942992,-155.791423
 bd,Banyan Drive,19.727129,-155.067175
 bf,Bayfront Parking Lot,19.722555,-155.075018
 bs,Baker Street/Krauss Street,19.723473,-155.041122
+ca,Civic Auditorium,19.717054,-155.065742
 cc,Hawaii Community College,19.704046,-155.069725
 ch,Chong/Kaumana,19.694579,-155.121684
 cp,Waikoloa Community Park,19.938831,-155.787330
@@ -21,6 +22,7 @@ gs,Gentry Subdivision,19.676564,-155.141902
 gy,Gym Complex,20.077132,-155.467592
 ha,Hapuna Prince,19.995666,-155.822728
 hb,Hawaiian Beaches,19.529090,-154.920036
+hc,Hilo International Airport,19.714476,-155.039845
 hf,Hawaiian Paradise Park,19.546767,-154.978384
 hg,Honokaa 76 Gas Station,20.078622,-155.466758
 hh,Hakalau,19.898577,-155.129412
